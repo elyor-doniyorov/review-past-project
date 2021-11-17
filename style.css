@@ -2,6 +2,7 @@ body {
   background: url("img/javascript-particles-animation.jpg") center center/cover
     no-repeat;
   font-family: "Redressed", cursive;
+  text-align: center;
 }
 #description {
   color: #fff;
@@ -16,6 +17,7 @@ form {
   width: 70%;
   margin: auto;
   border-radius: 20px;
+  text-align: center;
 }
   
 textarea {
