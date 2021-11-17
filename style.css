@@ -1,17 +1,21 @@
 body {
-  background: url("img/javascript-particles-animation.jpg") center center/cover
+  background: 
+  url("img/javascript-particles-animation.jpg") center center/cover
     no-repeat;
   font-family: "Redressed", cursive;
   text-align: center;
 }
+
 #description {
   color: #fff;
   font-size: 1.2rem;
 }
+
 h1 {
   font-size: 3rem;
   color: #fff;
 }
+
 form {
   background-color: burlywood;
   width: 70%;
@@ -19,23 +23,26 @@ form {
   border-radius: 20px;
   text-align: center;
 }
-  
+
 textarea {
   border-radius: 10px;
   padding: 10px;
 }
+
 input {
   border-radius: 5px;
   padding: 10px 20px;
   margin-top: 10px;
 }
-  
+
 p {
   margin-bottom: 10px;
 }
+
 label {
   font-size: 1.1rem;
 }
+
 button {
   padding: 10px 30px;
   border-radius: 5px;
@@ -43,6 +50,7 @@ button {
   color: #fff;
   margin-bottom: 10px;
 }
+
 button:hover {
   cursor: pointer;
   background-color: gray;
